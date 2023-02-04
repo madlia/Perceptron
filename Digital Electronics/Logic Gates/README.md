@@ -8,7 +8,7 @@
 >> 
 >> Quickly Understanding logic : [Click Here](https://www.youtube.com/watch?v=5A7zmmo4KFk)
 
-1. OR Gate Perceptron
+2. OR Gate Perceptron
 > Source Code : [Click Here](./OR_GATE_Perceptron.py)
 >
 > Watch on Youtube : [Click Here](https://youtu.be/acsnSSVwYqo)
