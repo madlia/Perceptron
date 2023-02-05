@@ -1,6 +1,8 @@
 # Logic Gates
 
 
+## Basic Gates
+
 1. NOT Gate Perceptron
 > Source Code : [Click Here](./NOT_GATE_Perceptron.py)
 >
@@ -19,3 +21,11 @@
 > Source Code : [Click Here](./OR_GATE_Perceptron.py)
 >
 > Watch on Youtube : [Click Here](https://youtu.be/acsnSSVwYqo)
+
+## Universal Gates
+
+1. NAND Gate Perceptron (using AND Gate Perceptron & NOT Gate Perceptron)
+> Source Code : [Click Here](./NAND_GATE_Perceptron)
+>
+> Watch on Youtube : [Click Here](https://youtu.be/PUpQMHQXPs4)
+>
